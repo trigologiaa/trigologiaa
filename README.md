@@ -1,4 +1,4 @@
-# ![https://t.co/qikOEJXLXu](logo.png) Hello, my name is Gastón.
+# [![https://t.co/qikOEJXLXu](logo.png)](https://t.co/qikOEJXLXu) Hello, my name is Gastón.
 
 ### I love backend, I think.
 
