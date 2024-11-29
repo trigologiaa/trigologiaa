@@ -10,4 +10,4 @@ User of Arch Linux btw (yes, that kind of people).
 
 For now, I like other things like coffee ☕, cats 🐈 and ATLA, that's why I'm a litte curious about how technology works in every way possible... maybe.
 
-ctrl + click on the turtle and have fun!
+ctrl + click or tap on the turtle and have fun!
