@@ -1,16 +1,13 @@
-### Hi there 👋
+# ![https://t.co/qikOEJXLXu](logo.png) Hello, my name is Gastón.
 
-<!--
-**trigologiaa/trigologiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I love backend, I think.
 
-Here are some ideas to get you started:
+I am student of Computer Engineering in UNTreF (Universidad Nacional de Tres de Febrero).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend programmer with knowledge in Java, Go and Python *(unfortunately)*... at the moment.
+
+User of Arch Linux btw (yes, that kind of people).
+
+For now, I like other things like coffee ☕ and cats 🐈, that's why I'm a litte curious about how technology works in every way possible... maybe.
+
+Click on the turtle!
