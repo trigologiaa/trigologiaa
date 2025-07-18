@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/0LsDm4wO_PIAAAAd/kakashi-naruto.gif"  />
+<div align="center">
+  <img height="150" src="https://media1.tenor.com/m/0LsDm4wO_PIAAAAd/kakashi-naruto.gif"  />
+</div>
 
 ###
 
