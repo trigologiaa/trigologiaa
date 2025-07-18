@@ -124,3 +124,5 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=trigologiaa&theme=dracula&no-frame=false&no-bg=false&margin-w=4" height="150" alt="stats graph"/>
 </div>
+
+<img src="https://raw.githubusercontent.com/trigologiaa/trigologiaa/output/snake.svg" alt="Snake animation" />
