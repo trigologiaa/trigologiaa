@@ -1,24 +1,47 @@
-<h1 align="center">Hello! My name is Gastón and I am a software developer, from Argentina</h1>
+<h1 align="center">Hello! My name is Gastón Ribero and I am a software developer, from Argentina</h1>
 
-###
-
-<h2 align="center">About me</h2>
-
-###
+<h2 align="center">🐢 About Me</h2>
 
 <img align="right" width=300px alt="Kakavim" src="https://media1.tenor.com/m/0LsDm4wO_PIAAAAd/kakashi-naruto.gif" />
 
-<p align="left">I am a computer engineering student, currently halfway through my degree. I am a teaching assistant at my university. I am currently expanding my knowledge in the front-end and, especially, the back-end. I love to learn and build something new, productive, innovative and creative.<br>- I am a fan of NeoVim and Arch Linux.<br>- I am looking forward to collaborate on open source projects.<br>- Ask me about anything, I am happy to help.</p>
+<br>
 
-###
+<p align="left">I am a computer engineering student, currently halfway through my degree. I am a teaching assistant at my university. I am currently expanding my knowledge in the front-end and, especially, the back-end. I love to learn and build something new, productive, innovative and creative.<br></p><br><br>
+
+🔭 I am currently working on expanding my back-end skills and building side projects to apply what I learn.  <br><br>
+👯 I am looking to collaborate on open source projects, especially those involving web development, developer tools, or Linux-based systems.  <br><br>
+🤝 I am looking for help with contributing to larger open source projects and improving my knowledge of software architecture.  <br><br>
+🌱 I am currently learning advanced back-end concepts (REST APIs, databases, scalability) and exploring frameworks like Ruby on Rails.  <br><br>
+💬 Ask me about NeoVim, Arch Linux, or anything related to back-end development — I am always happy to help!  <br><br>
+⚡ Fun fact: I prefer setting up my development environment from scratch rather than using pre-configured IDEs. Also, I cannot resist customizing my NeoVim config!
+
+
+<h2 align="center">Socials</h2>
+
+<div align="center">
+  <a href="trigologiaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gastonaugustoribero/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/trigologiaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto:augusto.ribero.15@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://codepen.io/trigologiaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
+  <a href="http://t.me/trigologiaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
 
 <h2 align="center">Skills</h2>
 
-###
-
 <h3 align="center">Languages</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -36,9 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
 </div>
 
-###
-
-<h3 align="center">Other technologies</h3>
+<h3 align="center">Others</h3>
 
 ###
 
@@ -48,8 +69,6 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="30" alt="codepen logo"  />
   <img width="12" />
@@ -74,14 +93,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
 </div>
 
 ###
@@ -94,11 +105,13 @@
   <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" height="30" alt="rails logo"  />
 </div>
 
-###
+<h2 align="center">Top Contributed Repo</h2>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=trigologiaa&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="150" alt="stats graph"/>
+</div>
 
 <h2 align="center">GitHub Stats</h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trigologiaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -106,12 +119,8 @@
   <img src="https://streak-stats.demolab.com?user=trigologiaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
 </div>
 
-###
+<h2 align="center">GitHub Trophies</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trigologiaa/trigologiaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trigologiaa/trigologiaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/trigologiaa/trigologiaa/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=trigologiaa&theme=dracula&no-frame=false&no-bg=false&margin-w=4" height="150" alt="stats graph"/>
+</div>
