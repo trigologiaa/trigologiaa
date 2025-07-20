@@ -1,6 +1,6 @@
 <h1 align="center">Hello! My name is Gastón Ribero and I am a software developer, from Argentina</h1>
 
-<h2 align="center">🐢 About Me</h2>
+<h2 align="center"><a href="https://t.co/qikOEJXLXu">🐢</a> About Me</h2>
 
 <img align="right" width=300px alt="Kakavim" src="https://media1.tenor.com/m/0LsDm4wO_PIAAAAd/kakashi-naruto.gif" />
 
@@ -13,7 +13,8 @@
 🤝 I am looking for help with contributing to larger open source projects and improving my knowledge of software architecture.  <br><br>
 🌱 I am currently learning advanced back-end concepts (REST APIs, databases, scalability) and exploring frameworks like Ruby on Rails.  <br><br>
 💬 Ask me about NeoVim, Arch Linux, or anything related to back-end development — I am always happy to help!  <br><br>
-⚡ Fun fact: I prefer setting up my development environment from scratch rather than using pre-configured IDEs. Also, I cannot resist customizing my NeoVim config!
+⚡ Fun fact: I prefer setting up my development environment from scratch rather than using pre-configured IDEs. Also, I cannot resist customizing my NeoVim config!<br><br>
+⚡ Fun warning: Do not touch the tourtle.
 
 
 <h2 align="center">Socials</h2>
