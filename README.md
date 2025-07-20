@@ -1,6 +1,6 @@
 <h1 align="center">Hello! My name is Gastón Ribero and I am a software developer, from Argentina</h1>
 
-<h2 align="center"><a href="https://t.co/qikOEJXLXu">🐢</a> About Me</h2>
+<h2 align="center"><a href="https://t.co/qikOEJXLXu" target="_blank">🐢</a> About Me</h2>
 
 <img align="right" width=300px alt="Kakavim" src="https://media1.tenor.com/m/0LsDm4wO_PIAAAAd/kakashi-naruto.gif" />
 
